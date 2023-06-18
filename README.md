@@ -1,2 +1,3 @@
-# basic_ProductPreviewCard
-A responsive simple HTML, CSS project.
+# ProductPreviewCard
+
+### A responsive simple HTML, CSS project.
